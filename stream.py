@@ -6,7 +6,7 @@ def main():
     html_tamplete = """
     <div style = "background-color:Lightblue; padding:5px">
     <h1 style="color:Black";text-align:center> Predict houses' prices (1st-demo)  </h1>
-    </div>'
+    </div>
     """
     st.markdown(html_tamplete,unsafe_allow_html =True)
     
